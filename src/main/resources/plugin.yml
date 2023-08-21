@@ -1,7 +1,4 @@
-name: ExamplePlugin
-version: '${project.version}'
-main: net.sootmc.exampleplugin.ExamplePlugin
-api-version: 1.19
-authors: [ SootMC ]
-description: Template for making a spigot maven plugin
-website: sootmc.net
+name: example-plugin
+version: '${version}'
+main: net.sootmc.exampleplugin.Example_plugin
+api-version: '1.19'
